@@ -1,0 +1,11 @@
+[
+  {
+    "plugin_name": "视频多级分类 (魔改版)",
+    "plugin_desc": "支持电影按评分、年代和系列分类 (扁平化系列目录结构)",
+    "plugin_icon": "Calibreweb_B.png",
+    "plugin_version": "1.0",
+    "plugin_author": "YourName",
+    "plugin_class": "multiclass.MultiClass",
+    "repo_url": "https://raw.githubusercontent.com/lxy031/MoviePilot-Plugin/main/multiclass.py"
+  }
+]
